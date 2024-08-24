@@ -1,0 +1,11 @@
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll

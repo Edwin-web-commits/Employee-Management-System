@@ -1,0 +1,11 @@
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Projects\Employee-Management App\EmployeeManagementSystem\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
