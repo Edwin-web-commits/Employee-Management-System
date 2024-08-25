@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p9FmZWUXkb0djmJk8AfI3KKXF8VpPsTeMUXJxaBbiZw=",
+  "Hash": "HM9UshydGoU9bYw7nYSJ9POWMG6Uzr+lOeHpdxdRX/c=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\webcil\\AutoMapper.wasm"
+    },
     {
       "Identity": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BaseLibrary.pdb",
       "SourceId": "Client",
@@ -5943,6 +5962,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm"
+    },
+    {
+      "Identity": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\k3ia7o2n4p.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
       "Identity": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\k806fghykl.gz",

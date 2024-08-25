@@ -3,56 +3,32 @@
   "WorkspaceRootPath": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB766A7B-4A27-4B1E-A521-13703A72636E}|Server\\Server.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB766A7B-4A27-4B1E-A521-13703A72636E}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Data\\Migrations\\20240825115954_AddTokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20240825115954_AddTokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\refreshtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\refreshtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{24F90070-A6B2-4F5A-BA09-0567D3F2021D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46925893-5EEC-45B9-AD75-4415246BEC02}|ClientLibrary\\ClientLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\clientlibrary\\clientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{46925893-5EEC-45B9-AD75-4415246BEC02}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\clientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|c:\\projects\\employee-management app\\employeemanagementsystem\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEDE157-1F77-432D-AA91-CEAE370AB230}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,169 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountBase.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\AccountBase.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\AccountBase.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:21:22.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:21:00.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:18:51.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Login.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\Login.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:16:34.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Town.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Town.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Town.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Town.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Town.cs",
+              "Title": "20240825115954_AddTokenInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Data\\Migrations\\20240825115954_AddTokenInfo.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240825115954_AddTokenInfo.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Data\\Migrations\\20240825115954_AddTokenInfo.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240825115954_AddTokenInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:08:14.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Branch.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Branch.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Branch.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Branch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:07:49.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Department.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Department.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:07:16.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GeneralDepartment.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T22:06:36.423Z",
+              "WhenOpened": "2024-08-25T11:59:55.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:59:59.33Z",
+              "WhenOpened": "2024-08-25T11:31:49.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\RefreshToken.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\DTOs\\RefreshToken.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:30:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:29:32.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\Employee.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Title": "RefreshTokenInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\RefreshTokenInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:40:23.516Z",
+              "WhenOpened": "2024-08-25T11:28:18.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServerLibrary.csproj",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
-              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
-              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-24T21:30:13.139Z"
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:30:53.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClientLibrary.csproj",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ClientLibrary\\ClientLibrary.csproj",
-              "RelativeDocumentMoniker": "ClientLibrary\\ClientLibrary.csproj",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ClientLibrary\\ClientLibrary.csproj",
-              "RelativeToolTip": "ClientLibrary\\ClientLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-24T21:29:14.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseLibrary.csproj",
-              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\BaseLibrary.csproj",
-              "RelativeDocumentMoniker": "BaseLibrary\\BaseLibrary.csproj",
-              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\BaseLibrary.csproj",
-              "RelativeToolTip": "BaseLibrary\\BaseLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-24T21:22:35.814Z"
+              "DocumentIndex": 0,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwGEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:38:34.15Z",
+              "EditorCaption": ""
             }
           ]
         }

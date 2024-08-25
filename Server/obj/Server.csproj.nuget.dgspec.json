@@ -103,7 +103,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

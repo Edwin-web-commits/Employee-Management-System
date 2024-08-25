@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MWI74XCaTbvl6BDJJ6PP7Yiwyg+0I2YEbMWpe6k24yP4NBzXp46aEQd0qd8ZdOPkoSuV5OMEIXiF74y2G5vGQw==",
+  "dgSpecHash": "2IT08f3SRHEgzTAkEk8MwmLou53JMIPJR7THw/BTmxFNP4b9+u4fS0c0KrlJZS6ZGv5XdvpP7p9kOXlHHQQVQA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Employee-Management App\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\edwin.motlokwa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\edwin.motlokwa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\edwin.motlokwa\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\edwin.motlokwa\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

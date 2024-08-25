@@ -1047,3 +1047,9 @@ C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\ne
 C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\net8.0\refint\Client.dll
 C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\net8.0\Client.pdb
 C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
+C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
+C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\bin\Debug\net8.0\AutoMapper.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
+C:\Projects\Employee-Management App\EmployeeManagementSystem\Client\obj\Debug\net8.0\compressed\k3ia7o2n4p.gz

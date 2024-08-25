@@ -9,3 +9,4 @@ C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\D
 C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
 C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
 C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
+C:\Projects\Employee-Management App\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.sourcelink.json
